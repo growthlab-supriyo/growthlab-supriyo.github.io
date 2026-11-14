@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /search/
+Disallow: /pagefind/
+
+Sitemap: https://growthlab-supriyo.github.io/sitemap_index.xml

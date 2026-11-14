@@ -1,0 +1,21 @@
+# Supriyo's Growth Lab
+
+> Practical guides on business automation, the best tools for creators and startups, and proven growth and SEO strategies.
+
+## Automation
+
+Workflows, no-code tools and systems that save hours every week.
+
+- [Stop Copy-Pasting GSC and GA4 Data: Automate Your SEO Reports in One Google Sheet](https://growthlab-supriyo.github.io/automate-seo-reports-gsc-ga4/): Stop exporting Search Console and GA4 data by hand. This free Google Sheets tool builds your SEO report automatically, with insights, comparisons and scheduled emails.
+
+## Tools
+
+Honest reviews, comparisons and the best tools for every job.
+
+- [Migrating a Website? Don't Lose Pages: Extract Every Sitemap URL in Seconds](https://growthlab-supriyo.github.io/extract-urls-from-sitemap/): Before you migrate, redesign or audit a website, save every page URL. This free Google Sheets tool extracts every URL from any sitemap or sitemap index in seconds.
+- [Thousands of Pages, No Idea Which Are Indexed? Check Them All at Once, Free](https://growthlab-supriyo.github.io/bulk-url-inspection-google-indexing/): Stop inspecting URLs one by one in Search Console. This free Google Sheets tool checks the index status, last crawl, canonicals and rich results of up to 2,000 URLs a day.
+
+## Optional
+
+- [All articles](https://growthlab-supriyo.github.io/blog/)
+- [RSS feed](https://growthlab-supriyo.github.io/rss.xml)
